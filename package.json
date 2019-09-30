@@ -1,0 +1,23 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "This repository is used as source for the teaching of SWA. It provides just a basic website example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doomsayer2/SWA_Git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doomsayer2/SWA_Git/issues"
+  },
+  "homepage": "https://github.com/doomsayer2/SWA_Git#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4",
+    "underscore": "^1.9.1"
+  }
+}

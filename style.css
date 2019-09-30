@@ -1,0 +1,29 @@
+#layer1 > .line {
+    fill: none;
+    stroke: aquamarine;
+    stroke-width: 3;
+}
+
+#layer2 > .line {
+    fill: none;
+    stroke: hotpink;
+    stroke-width: 3;
+}
+
+/* Style the dots by assigning a fill and stroke */
+
+#layer1 > .dot {
+    fill: green;
+    stroke: #fff;
+}
+
+#layer2 > .dot {
+    fill: violet;
+    stroke: #fff;
+}
+
+.focus circle {
+    fill: none;
+    stroke: steelblue;
+}
+
